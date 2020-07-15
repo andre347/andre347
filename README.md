@@ -2,6 +2,6 @@
 
 ### Hi there I'm Andre :wave:
 
-I'm a Solutions Engineer at [The Information Lab](https://github.com/TheInformationLab) 👨‍💻 and work with Tableau, Alteryx and AWS. I'm an AWS Certified Developer and write blog about these tools on the website below :point_down:
+I'm a Solutions Engineer at [The Information Lab](https://github.com/TheInformationLab) 👨‍💻 and work with Tableau, Alteryx and AWS. I'm an AWS Certified Developer and write down my thoughts and blogs about these tools on the website below :point_down:
 
 [![andredevries.dev](https://img.shields.io/static/v1?label=andredevries&message=%20&color=orange&logo=&style=flat-square&logoColor=white)](https://andredevries.dev/)
