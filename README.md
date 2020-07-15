@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=andre347">
 
-### Hi there I'm Andre :wave:
+### Hi, I'm Andre! :wave:
 
 I'm a Solutions Engineer at [The Information Lab](https://github.com/TheInformationLab) 👨‍💻 and work with Tableau, Alteryx and AWS. I'm an AWS Certified Developer and write down my thoughts and blogs about these tools on the website below :point_down:
 
