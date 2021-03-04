@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=andre347">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=andre347"> -->
 
 ### Hi, I'm Andre! :wave:
 
