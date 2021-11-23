@@ -8,6 +8,6 @@ I'm a Solutions Engineer at [The Information Lab](https://github.com/TheInformat
 
 Skills / Tools / Languages:
 - TypeScript 
-- React
+- React / Next.js
 - Snowflake
 - dbt
